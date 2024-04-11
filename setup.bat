@@ -1,5 +1,5 @@
-git config --global user.name"letiiciamelo89"
-git config --global user.email"leticinhamelo576@gmail.com"
+git config --global user.name "letiiciamelo89"
+git config --global user.email "leticinhamelo576@gmail.com"
 
 cd C:\Users\LETICIADEMELOFIGUEIR\
 
